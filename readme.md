@@ -1,8 +1,8 @@
 cs_2_il
 ====
 
-![in](input.png)<br>
-![out](output.png)<br>
+![in](img/input.png)<br>
+![out](img/output.png)<br>
 
 TODO
 ----
